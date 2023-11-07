@@ -9,3 +9,9 @@ Dhruvin Rajpura (23BT04D191)
 Milind Viraja (21BT04136) 
 
 Jay patil (23BT04D189)
+
+
+# The Working Output 
+
+https://github.com/ansariumar/Case-Study-OS-Projects-/assets/82356720/1f4cce95-524a-445e-af1e-c7f7e5ef81ea
+
